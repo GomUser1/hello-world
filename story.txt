@@ -1,0 +1,4 @@
+1. go to some folder
+2. git clone (link) 
+3. close the console and go into the folder you cloned 
+4. inside the new folder do the git pull
