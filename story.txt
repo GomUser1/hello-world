@@ -1,8 +1,3 @@
-There was once a person 
-who would always try to be
-wawesome
-
-----
 1. go to some folder
 2. git clone (link) 
 3. close the console and go into the folder you cloned 
